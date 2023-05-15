@@ -17,7 +17,7 @@ Dataset list
 [Tourism Foreign Visitors Data 2019_0.csv](https://github.com/shemmozhipandian/Telangana-Tourism-dashboard/files/11474452/Tourism.Foreign.Visitors.Data.2019_0.csv)
 [Tourism Foreign Visitors Data 2020_0.csv](https://github.com/shemmozhipandian/Telangana-Tourism-dashboard/files/11474454/Tourism.Foreign.Visitors.Data.2020_0.csv)
 
-Steps in Porjects
+STEPS IN PORJECT
 
 Problem statement -->
 Import data in MS SQL Server-->
