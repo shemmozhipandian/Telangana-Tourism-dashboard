@@ -5,10 +5,21 @@ Dataset Downloaded from below link
 https://data.telangana.gov.in/search/?theme=Tourism%20and%20Culture
 
 Dataset list
-[Telangana Tourism Hotel Tariff .csv](https://github.com/shemmozhipandian/Telangana-Tourism-dashboard/files/11474442/Telangana.Tourism.Hotel.Tariff.csv)
-[Telangana Tourism Hotels Latitude and Longitude.csv](https://github.com/shemmozhipandian/Telangana-Tourism-dashboard/files/11474444/Telangana.Tourism.Hotels.Latitude.and.Longitude.csv)
+
+* Telangana Tourism Hotels Tariff
+-->> Organisation: Telangana State Tourism Development Corporation (TSTDC) This dataset provides information about the Telangana Tourism Hotels Tariff in all districts. Contains the below columns: Hotel, City, Address, Contact, Room Type, Total Rooms, Weekdays, and Weekend...
+[Telangana Tourism Hotel Tariff .csv](https://github.com/shemmozhipandian/Telangana-Tourism-dashboard/files/11474442/Telangana.Tourism.Hotel.Tariff.csv)[Telangana Tourism Hotels Latitude and Longitude.csv](https://github.com/shemmozhipandian/Telangana-Tourism-dashboard/files/11474444/Telangana.Tourism.Hotels.Latitude.and.Longitude.csv)
+
+* Telangana Tourism Hotels Latitude and Longitude
+--> Organisation: Telangana State Tourism Development Corporation (TSTDC) This dataset provides information about the Telangana Tourism Hotels Geo-location in all districts. Contains the below columns: Hotel, City, Address, Contact, Latitude, and Longitude Last updated on 1st...
 [Telangana Tourism Packages.csv](https://github.com/shemmozhipandian/Telangana-Tourism-dashboard/files/11474445/Telangana.Tourism.Packages.csv)
+
+* Tourism and Culture
+--> Organisation: Tourism Development Corporation This dataset provides information about the TSTDC units, Tourist Spots and TSS Artists. Period: 2015-2016
 [Tourism and Culture.csv](https://github.com/shemmozhipandian/Telangana-Tourism-dashboard/files/11474446/Tourism.and.Culture.csv)
+
+*Tourism Foreign Visitors Data
+--> Organisation: Department of Tourism This dataset provides information about foreign tourists in Telangana. The data is collated by the department from all tourist destinations, airport, pilgrimage centres, archaeological sites, hotels, boating unit places in Telangana
 [Tourism Foreign Visitors Data 2014_0.csv](https://github.com/shemmozhipandian/Telangana-Tourism-dashboard/files/11474447/Tourism.Foreign.Visitors.Data.2014_0.csv)
 [Tourism Foreign Visitors Data 2015_0.csv](https://github.com/shemmozhipandian/Telangana-Tourism-dashboard/files/11474448/Tourism.Foreign.Visitors.Data.2015_0.csv)
 [Tourism Foreign Visitors Data 2016_0.csv](https://github.com/shemmozhipandian/Telangana-Tourism-dashboard/files/11474449/Tourism.Foreign.Visitors.Data.2016_0.csv)
@@ -16,6 +27,17 @@ Dataset list
 [Tourism Foreign Visitors Data 2018_0.csv](https://github.com/shemmozhipandian/Telangana-Tourism-dashboard/files/11474451/Tourism.Foreign.Visitors.Data.2018_0.csv)
 [Tourism Foreign Visitors Data 2019_0.csv](https://github.com/shemmozhipandian/Telangana-Tourism-dashboard/files/11474452/Tourism.Foreign.Visitors.Data.2019_0.csv)
 [Tourism Foreign Visitors Data 2020_0.csv](https://github.com/shemmozhipandian/Telangana-Tourism-dashboard/files/11474454/Tourism.Foreign.Visitors.Data.2020_0.csv)
+
+*Tourism Domestic Visitors Data
+--> Organisation: Department of Tourism This dataset provides information about the domestic tourist in Telangana. The data is collated by the department from all tourist destinations, airport, pilgrimage centres, archaeological sites, hotels, boating units places in...
+[Tourism Domestic Visitors Data 2014_0.csv](https://github.com/shemmozhipandian/Telangana-Tourism-dashboard/files/11474819/Tourism.Domestic.Visitors.Data.2014_0.csv)
+[Tourism Domestic Visitors Data 2015_0.csv](https://github.com/shemmozhipandian/Telangana-Tourism-dashboard/files/11474820/Tourism.Domestic.Visitors.Data.2015_0.csv)
+[Tourism Domestic Visitors Data 2016_0.csv](https://github.com/shemmozhipandian/Telangana-Tourism-dashboard/files/11474821/Tourism.Domestic.Visitors.Data.2016_0.csv)
+[Tourism Domestic Visitors Data 2017_0.csv](https://github.com/shemmozhipandian/Telangana-Tourism-dashboard/files/11474822/Tourism.Domestic.Visitors.Data.2017_0.csv)
+[Tourism Domestic Visitors Data 2018_0.csv](https://github.com/shemmozhipandian/Telangana-Tourism-dashboard/files/11474823/Tourism.Domestic.Visitors.Data.2018_0.csv)
+[Tourism Domestic Visitors Data 2019_0.csv](https://github.com/shemmozhipandian/Telangana-Tourism-dashboard/files/11474824/Tourism.Domestic.Visitors.Data.2019_0.csv)
+[Tourism Domestic Visitors Data 2020_0.csv](https://github.com/shemmozhipandian/Telangana-Tourism-dashboard/files/11474825/Tourism.Domestic.Visitors.Data.2020_0.csv)
+
 
 --STEPS IN PORJECT--
 
