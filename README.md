@@ -19,15 +19,14 @@ Dataset list
 
 Steps in Porjects
 
-Problem statement
-Import data in MS SQL Server
-Connecting Power Bi to MS SQL DB
-Data Cleaning
-Data Processing
-Data Modelling
-Creating Date Table
-Date Visualization
-Creating Dashboard
-Generating Insights**
-
+Problem statement -->
+Import data in MS SQL Server-->
+Connecting Power Bi to MS SQL DB-->
+Data Cleaning-->
+Data Processing-->
+Data Modelling-->
+Creating Date Table-->
+Date Visualization-->
+Creating Dashboard-->
+Generating Insights-->
 
