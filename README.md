@@ -31,7 +31,7 @@ Creating Dashboard-->
 Generating Insights-->
 
 --PORBLEM STATEMENT--
-A tourisim compnay in Telangana wants to create a dashboard showing Domestic and Foreign Tourist visit to their state showing inforamtion of YTD people visited,Best trourist location,Hotel location ,Hotel tariff in each location,Best hotel,most visited location,Most used oturism packages and generate Insights for the below scenarios -
+A tourisim compnay in Telangana wants to create a dashboard showing Domestic and Foreign Tourist visit to their state showing inforamtion of YTD people visited,Best tourist location,Hotel location ,Hotel tariff in each location,Best hotel,most visited location,Most used tourism packages and generate Insights for the below scenarios -
 * Create KPI banners showing YTD Domestic visitor,YTD foreign visitor,Best Hotel,Most Visited Tourist spots,Best Tourist packages
 * Find year on year growth for each KPI and show a YTD sparkline for wach measure in the KPI to understand the monthly trend for each fact
 * Find YTD tourist visit etc for diffrent customer category.Add trend icon for each category.
