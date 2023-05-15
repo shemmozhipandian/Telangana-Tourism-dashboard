@@ -17,7 +17,7 @@ Dataset list
 [Tourism Foreign Visitors Data 2019_0.csv](https://github.com/shemmozhipandian/Telangana-Tourism-dashboard/files/11474452/Tourism.Foreign.Visitors.Data.2019_0.csv)
 [Tourism Foreign Visitors Data 2020_0.csv](https://github.com/shemmozhipandian/Telangana-Tourism-dashboard/files/11474454/Tourism.Foreign.Visitors.Data.2020_0.csv)
 
-STEPS IN PORJECT
+--STEPS IN PORJECT--
 
 Problem statement -->
 Import data in MS SQL Server-->
@@ -30,7 +30,7 @@ Date Visualization-->
 Creating Dashboard-->
 Generating Insights-->
 
-PORBLEM STATEMENT 
+--PORBLEM STATEMENT--
 A tourisim compnay in Telangana wants to create a dashboard showing Domestic and Foreign Tourist visit to their state showing inforamtion of YTD people visited,Best trourist location,Hotel location ,Hotel tariff in each location,Best hotel,most visited location,Most used oturism packages and generate Insights for the below scenarios -
 * Create KPI banners showing YTD Domestic visitor,YTD foreign visitor,Best Hotel,Most Visited Tourist spots,Best Tourist packages
 * Find year on year growth for each KPI and show a YTD sparkline for wach measure in the KPI to understand the monthly trend for each fact
@@ -39,3 +39,25 @@ A tourisim compnay in Telangana wants to create a dashboard showing Domestic and
 * Top 5 and bottom tourist spot by vistior visit (Domestic and Foreign)
 * YTD visit by tourist spot to know best and worst visitor count in the state
 * YTD overall best tourist spot considering all the facilite such a no.of hotel,tourist spots,Help centre,
+
+--POWER BI FUNCTIONALITIES USED--
+* How to connect Power BI to MS SQL server and flat files
+* Data modelling with three tables
+* Data cleaning in Power query
+* How to create a date table in Power Bi
+* Time intelligence function (TotalYTD,sampleperiodlastyear,etc)
+* Creating dynamic and complex KPIs
+* Basic to advance DAX query
+* conditional formatting's,adding dynamic icon in power BI
+* Different DAX funcations like calculate,sum,sumx,filter,values,selectedvalue,return,concatenate,divide,var,etc.
+* creating different charts,maps,drill through,bookmarks,inheritance amd formatting.
+* generating insignts from charts
+* Export report
+
+-- Version used to develop report --
+Power Bi - Version 2.116.966.0,64-bit(April,2023)
+MS SQL Server - 19.0.2
+Excel - Office 2021
+
+
+
