@@ -55,9 +55,9 @@ A tourisim compnay in Telangana wants to create a dashboard showing Domestic and
 * Export report
 
 -- Version used to develop report --
-Power Bi - Version 2.116.966.0,64-bit(April,2023)
-MS SQL Server - 19.0.2
-Excel - Office 2021
+* Power Bi - Version 2.116.966.0,64-bit(April,2023)
+* MS SQL Server - 19.0.2
+* Excel - Office 2021
 
 
 
